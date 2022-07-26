@@ -1,6 +1,8 @@
 # godot-airconsole
 Airconsole API Interface for the Godot Engine
 
+## Note: the plugin is missing many API calls, you can add them easely editing the airconsole.gd file, if you can't or encounter any problem, open an issue and I'll fix it.
+
 ## Instalation
 
 - Download zip and extract inside addons/ folder on your Godot project
